@@ -1,8 +1,17 @@
-# Slim Framework 4 Skeleton Application
+# WEMANITI TESt whith Slim Framework 4 Skeleton 
 
-Use this skeleton application to quickly setup and start working on a new Slim Framework 4 application. This application uses the latest Slim 4 with Slim PSR-7 implementation and PHP-DI container implementation. It also uses the Monolog logger.
+## FooBarQix
+You should implement a function String compute(String) which implements the following rules.
 
-This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
+### Rules
+#### Step 1
+- If the number is divisible by 3, write “Foo” instead of the number
+- If the number is divisible by 5, add “Bar”
+- If the number is divisible by 7, add “Qix”
+- For each digit 3, 5, 7, add “Foo”, “Bar”, “Qix” in the digits order.
+
+#### Step 2
+- We have a new business request: we must keep a trace of 0 in numbers, each 0 must be replaced by char “*”.
 
 ## Install the Application
 
