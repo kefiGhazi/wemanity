@@ -1,4 +1,4 @@
-# WEMANITY Test whith Slim Framework 4 Skeleton 
+# WEMANITY Test with Slim Framework 4 Skeleton 
 
 ## FooBarQix
 You should implement a function String compute(String) which implements the following rules.
